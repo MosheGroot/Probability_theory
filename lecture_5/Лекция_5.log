@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.3.19)  19 MAR 2021 21:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.3.19)  26 MAR 2021 22:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -672,48 +672,163 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--46
 
  []
 
+<1.png, id=44, 630.10406pt x 371.88937pt>
+File: 1.png Graphic file (type png)
+<use 1.png>
+Package pdftex.def Info: 1.png  used on input line 48.
+(pdftex.def)             Requested size: 252.03716pt x 148.75311pt.
 [1
 
-{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 114--120
+{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 67--69
+
+ []
+
+<2.png, id=59, 615.0478pt x 417.81094pt>
+File: 2.png Graphic file (type png)
+<use 2.png>
+Package pdftex.def Info: 2.png  used on input line 93.
+(pdftex.def)             Requested size: 202.9664pt x 137.87804pt.
+<3.png, id=60, 615.0478pt x 417.81094pt>
+File: 3.png Graphic file (type png)
+<use 3.png>
+Package pdftex.def Info: 3.png  used on input line 94.
+(pdftex.def)             Requested size: 202.9664pt x 137.87804pt.
+[2 <./2.png> <./3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 138--140
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--127
+Underfull \hbox (badness 10000) in paragraph at lines 144--146
 
  []
 
-[2] (./Р›РµРєС†РёСЏ_5.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--167
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 168--170
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--183
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 219--221
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--228
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--233
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--249
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--249
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--270
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 294--296
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--303
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--314
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 317--319
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--327
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--334
+
+ []
+
+
+Overfull \hbox (3.2894pt too wide) in paragraph at lines 335--337
+[]\T2A/cmr/m/n/10 А ве-ли-чи-на, име-ю-щая рас-пре-де-ле-ние Бер-нул-ли, бу-дет
+ обо-зна-че-на та-ким об-ра-зом: $\OML/cmm/m/it/10 ^^X \OMS/cmsy/m/n/10 ^^X \OM
+L/cmm/m/it/10 Bi\OT1/cmr/m/n/10 (1; \OML/cmm/m/it/10 p\OT1/cmr/m/n/10 )$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--337
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 365--367
+
+ []
+
+[7] (./Р›РµРєС†РёСЏ_5.aux)
 Package rerunfilecheck Info: File `Р›РµРєС†РёСЏ_5.out' has not changed.
-(rerunfilecheck)             Checksum: C87E257F69CAE16D8AAC6512A86C2411;1897.
+(rerunfilecheck)             Checksum: 85E4DA8B68FA757D6C397F0645C73A47;2867.
  ) 
 Here is how much of TeX's memory you used:
- 10927 strings out of 479014
- 154141 string characters out of 5863086
- 490412 words of memory out of 5000000
- 28221 multiletter control sequences out of 15000+600000
- 417812 words of font info for 63 fonts, out of 8000000 for 9000
+ 10983 strings out of 479014
+ 154719 string characters out of 5863086
+ 493420 words of memory out of 5000000
+ 28253 multiletter control sequences out of 15000+600000
+ 421660 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,10n,74p,663b,395s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<c:/tex
-live/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2020
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2020/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2020/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmr7.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmsy10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.
-pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb><
-c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texlive
-/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2020/texm
-f-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2020/texmf-dist/fon
-ts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2020/texmf-dist/fonts/type1/p
-ublic/cm-super/sfrm1200.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-s
-uper/sfrm1728.pfb>
-Output written on Р›РµРєС†РёСЏ_5.pdf (2 pages, 148285 bytes).
+ 71i,10n,74p,678b,442s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}{c:/tex
+live/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2020
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2020/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2020/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2020/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr7.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10
+.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb><c:/t
+exlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/202
+0/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb><c:/texlive/2020/tex
+mf-dist/fonts/type1/public/cm-super/sfbi1000.pfb><c:/texlive/2020/texmf-dist/fo
+nts/type1/public/cm-super/sfbx1000.pfb><c:/texlive/2020/texmf-dist/fonts/type1/
+public/cm-super/sfbx1200.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-
+super/sfbx1440.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm
+1000.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><
+c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive
+/2020/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb>
+Output written on Р›РµРєС†РёСЏ_5.pdf (7 pages, 257316 bytes).
 PDF statistics:
- 107 PDF objects out of 1000 (max. 8388607)
- 88 compressed objects within 1 object stream
- 12 named destinations out of 1000 (max. 500000)
- 57 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 170 PDF objects out of 1000 (max. 8388607)
+ 139 compressed objects within 2 object streams
+ 27 named destinations out of 1000 (max. 500000)
+ 96 words of extra memory for PDF output out of 10000 (max. 10000000)
 
